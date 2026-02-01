@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&family=Comic+Relief:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Smooch+Sans:wght@100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Exo+2:ital,wght@0,100..900;1,100..900&display=swap');
 
 
 :root {
@@ -2221,7 +2223,7 @@ nav ul {
 #projects h1 {
   text-align: center;
   font-size: 50px;
-  animation: glowText 2.5s infinite alternate;
+  font-family: "Exo 2", sans-serif;
   color: red;
 }
 
@@ -2329,6 +2331,7 @@ hr {
 .about-content h1 {
   font-size: 3.5em;
   margin-bottom: 20px;
+  font-family: "Exo 2", sans-serif;
   color: #ff0000;
   position: relative;
   display: inline-block;
@@ -2502,6 +2505,7 @@ hr {
   margin-bottom: 60px;
   color: #ff0000;
   position: relative;
+  font-family: "Exo 2", sans-serif;
   display: inline-block;
   animation: glowText 2.5s infinite alternate;
 }
@@ -2627,6 +2631,7 @@ hr {
 .heading {
   font-size: 3.8rem;
   font-weight: 900;
+  font-family: "Exo 2", sans-serif;
   margin-bottom: 1rem;
   color: #ff0000;
   text-shadow: 0 0 30px rgba(255, 0, 0, 0.5);
@@ -2846,6 +2851,7 @@ hr {
   font-size: 3.2em;
   margin-bottom: 20px;
   color: #ff0000;
+  font-family: "Exo 2", sans-serif;
   position: relative;
   animation: glowText 2.5s infinite alternate;
   display: inline-block;
