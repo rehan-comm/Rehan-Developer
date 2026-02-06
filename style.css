@@ -2239,6 +2239,11 @@ nav ul {
   background-image: url('project_4.png');
 }
 
+.project_5 {
+  background-image: url('project_5.png');
+}
+
+
 .project::after {
   content: "";
   position: absolute;
